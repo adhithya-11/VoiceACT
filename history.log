@@ -1,0 +1,4 @@
+Timestamp,Action,Item,Quantity,Status
+2026-04-20 14:29:43,Remove,Butter_003,48,Success
+2026-04-20 14:30:20,Remove,Monitor_001,68,Success
+2026-04-21 22:08:57,Remove,Tomato_010,107,Success
